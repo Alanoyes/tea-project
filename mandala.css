@@ -1,0 +1,97 @@
+html {
+	background: url('https://crazyblessedlife.files.wordpress.com/2014/01/latest-blue-vintage-background-background-patterns-others.jpg');
+}
+
+h1, h2, h3, h4 {
+	font-family: 'Bitter', serif;
+	font-style: strong;
+}
+
+body {
+	font-family: 'Vesper Libre', serif;
+}
+
+#header {
+	position: fixed;
+	top: 0;
+	width: 100vw;
+	z-index: 1;
+}
+
+#header a {
+	color: black;
+	font-size: 1.1em;
+}
+
+#header .navbar-brand {
+	font-size: 1.8em;
+}
+
+#welcome {
+	background: url('https://crazyblessedlife.files.wordpress.com/2014/01/latest-blue-vintage-background-background-patterns-others.jpg');
+	text-align: center;
+	color: black;
+	font-size: 1em;
+	margin-top: 175px;
+	padding-top: 20px;
+}
+
+#welcome h1 {
+	margin: 0 auto;
+	text-align: center;
+	font-size: 2.5em;
+}
+
+.description {
+	width: 75vw;
+	text-align: center;
+}
+
+hr.style-two {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+.navbar {
+	background: url('http://destinationtci.tc/wp-content/uploads/2014/12/turks-and-caicos-header-turquoise-5.jpg') center bottom;
+}
+
+.grid-border {
+	border: 5px solid black;
+	padding: 10px 0;
+	border-radius: 25px;
+}
+
+.abouttable {
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.about-table {
+		width: 250px;
+}
+
+.about-table img {
+	width: 75%
+}
+
+@media (min-width: 1100px) {
+	iframe {
+		width: 450px;
+		height: 253px;
+	}
+}
+
+@media (min-width: 992px) {
+	iframe {
+		width: 380px;
+		height:214px;
+	}
+}
+
+#credit {
+	background: dodgerblue;
+}
+
